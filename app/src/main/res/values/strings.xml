@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APPCARE</string>
+    <string name="Inicios_Session">inicio session</string>
+    <string name="menu_appcare">menu</string>
+
+    <string name="chequeo">check in sistem</string>
+    <string name="mantenimiento">mantenimiento full</string>
+    <string name="aceite">Cambio de aceite</string>
+    <string name="alineamiento">alineamiento</string>
+    <string name="Lavar">Lavado</string>
+
+    <string name="Descripcion_de_mantenimiento">Mantenimiento completo para el vehiculo</string>
+
+    <string name="salida">salir</string>
+
+</resources>
